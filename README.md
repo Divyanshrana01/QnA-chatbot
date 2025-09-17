@@ -82,10 +82,9 @@ Then open `http://localhost:8501`.
 
 ![Demo 1](assets/1746275870437.jpeg)  ![Demo 1](assets/llms.png)
 
-![Demo 2](assets/1746275870635.jpeg)
+![Demo 2](assets/1746275870697.jpeg)
 
-![Demo 3](assets/1746275870697.jpeg)
-
+![Demo 3](assets/1746275870635.jpeg)
 ---
 
 ## 🗂️ Project Structure
