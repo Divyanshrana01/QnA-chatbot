@@ -114,6 +114,4 @@ Issues and PRs are welcome: improve prompts, UI, or add model options.
 
 ---
 
-## 📄 License
 
-Add your preferred license (e.g., MIT) in a `LICENSE` file.
